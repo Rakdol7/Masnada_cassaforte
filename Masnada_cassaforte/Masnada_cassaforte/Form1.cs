@@ -6,7 +6,7 @@ namespace Masnada_cassaforte
         public Form1()
         {
             InitializeComponent();
-            cassaforte = new Cassaforte("43646465", "Gambirasio", "T110", "44bb55nn66kk", false, "", false, "");
+            cassaforte = new Cassaforte("43646465", "Gambirasio", "T110", "44bb55nn66kk", false, "!", false, "!", 0);
 
         }
 
@@ -20,16 +20,16 @@ namespace Masnada_cassaforte
             cassaforte.Sblocca(textBox3.Text);
             if (cassaforte.Apertura == true) label1.Text = "Aperta";
             else label1.Text = "Chiusa";
-            if (cassaforte.Blocco == true) label1.Text = "Bloccata";
-            else label1.Text = "Sbloccata";
+            if (cassaforte.Blocco == true) label5.Text = "Bloccata";
+            else label5.Text = "Sbloccata";
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             if (cassaforte.Apertura == true) label1.Text = "Aperta";
             else label1.Text = "Chiusa";
-            if (cassaforte.Blocco == true) label1.Text = "Bloccata";
-            else label1.Text = "Sbloccata";
+            if (cassaforte.Blocco == true) label5.Text = "Bloccata";
+            else label5.Text = "Sbloccata";
         }
 
         private void Chiusura_Click(object sender, EventArgs e)
@@ -37,8 +37,8 @@ namespace Masnada_cassaforte
             cassaforte.Chiudi();
             if (cassaforte.Apertura == true) label1.Text = "Aperta";
             else label1.Text = "Chiusa";
-            if (cassaforte.Blocco == true) label1.Text = "Bloccata";
-            else label1.Text = "Sbloccata";
+            if (cassaforte.Blocco == true) label5.Text = "Bloccata";
+            else label5.Text = "Sbloccata";
         }
 
         private void Apertura_Click(object sender, EventArgs e)
@@ -46,8 +46,8 @@ namespace Masnada_cassaforte
             cassaforte.Apri(CodiceUtente.Text);
             if (cassaforte.Apertura == true) label1.Text = "Aperta";
             else label1.Text = "Chiusa";
-            if (cassaforte.Blocco == true) label1.Text = "Bloccata";
-            else label1.Text = "Sbloccata";
+            if (cassaforte.Blocco == true) label5.Text = "Bloccata";
+            else label5.Text = "Sbloccata";
         }
 
         private void Programmata_Click(object sender, EventArgs e)
@@ -55,8 +55,8 @@ namespace Masnada_cassaforte
             cassaforte.AperturaProgrammata(textBox1.Text, textBox2.Text);
             if (cassaforte.Apertura == true) label1.Text = "Aperta";
             else label1.Text = "Chiusa";
-            if (cassaforte.Blocco == true) label1.Text = "Bloccata";
-            else label1.Text = "Sbloccata";
+            if (cassaforte.Blocco == true) label5.Text = "Bloccata";
+            else label5.Text = "Sbloccata";
         }
 
         private void ImpostaUtente_Click(object sender, EventArgs e)
