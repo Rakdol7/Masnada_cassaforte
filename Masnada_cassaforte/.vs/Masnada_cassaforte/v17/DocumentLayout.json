@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\masnada.21197\\Desktop\\Masnada_cassaforte\\Masnada_cassaforte\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|c:\\users\\masnada.21197\\desktop\\masnada_cassaforte\\masnada_cassaforte\\masnada_cassaforte\\cassaforte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|solutionrelative:masnada_cassaforte\\cassaforte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|C:\\Users\\masnada.21197\\Desktop\\Masnada_cassaforte\\Masnada_cassaforte\\masnada_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|solutionrelative:masnada_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|c:\\users\\masnada.21197\\desktop\\masnada_cassaforte\\masnada_cassaforte\\masnada_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|solutionrelative:masnada_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|c:\\users\\masnada.21197\\desktop\\masnada_cassaforte\\masnada_cassaforte\\masnada_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|solutionrelative:masnada_cassaforte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|c:\\users\\masnada.21197\\desktop\\masnada_cassaforte\\masnada_cassaforte\\masnada_cassaforte\\cassaforte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5334068E-D7DF-49AE-B31C-9590B8671384}|Masnada_cassaforte\\Masnada_cassaforte.csproj|solutionrelative:masnada_cassaforte\\cassaforte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\masnada.21197\\Desktop\\Masnada_cassaforte\\Masnada_cassaforte\\Masnada_cassaforte\\Form1.cs",
+              "RelativeDocumentMoniker": "Masnada_cassaforte\\Form1.cs",
+              "ToolTip": "C:\\Users\\masnada.21197\\Desktop\\Masnada_cassaforte\\Masnada_cassaforte\\Masnada_cassaforte\\Form1.cs",
+              "RelativeToolTip": "Masnada_cassaforte\\Form1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:02:46.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Cassaforte.cs",
               "DocumentMoniker": "C:\\Users\\masnada.21197\\Desktop\\Masnada_cassaforte\\Masnada_cassaforte\\Masnada_cassaforte\\Cassaforte.cs",
               "RelativeDocumentMoniker": "Masnada_cassaforte\\Cassaforte.cs",
               "ToolTip": "C:\\Users\\masnada.21197\\Desktop\\Masnada_cassaforte\\Masnada_cassaforte\\Masnada_cassaforte\\Cassaforte.cs",
               "RelativeToolTip": "Masnada_cassaforte\\Cassaforte.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAA9wE4AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T11:18:08.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\masnada.21197\\Desktop\\Masnada_cassaforte\\Masnada_cassaforte\\Masnada_cassaforte\\Form1.cs",
               "RelativeDocumentMoniker": "Masnada_cassaforte\\Form1.cs",

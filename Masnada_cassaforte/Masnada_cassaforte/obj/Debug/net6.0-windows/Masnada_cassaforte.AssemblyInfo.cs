@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Masnada_cassaforte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9adb1738695ef437431b5373c693a80628a3c2a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eddb72b2a6335da2d2a5cbf96de73aab7b90bb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Masnada_cassaforte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Masnada_cassaforte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

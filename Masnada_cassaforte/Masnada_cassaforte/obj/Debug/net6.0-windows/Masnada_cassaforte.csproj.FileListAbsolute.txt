@@ -1,0 +1,17 @@
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\bin\Debug\net6.0-windows\Masnada_cassaforte.exe
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\bin\Debug\net6.0-windows\Masnada_cassaforte.deps.json
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\bin\Debug\net6.0-windows\Masnada_cassaforte.runtimeconfig.json
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\bin\Debug\net6.0-windows\Masnada_cassaforte.dll
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\bin\Debug\net6.0-windows\Masnada_cassaforte.pdb
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.Form1.resources
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.csproj.GenerateResource.cache
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.AssemblyInfoInputs.cache
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.AssemblyInfo.cs
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.csproj.CoreCompileInputs.cache
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.sourcelink.json
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.dll
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\refint\Masnada_cassaforte.dll
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.pdb
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\Masnada_cassaforte.genruntimeconfig.cache
+C:\Users\masnada.21197\Desktop\Masnada_cassaforte\Masnada_cassaforte\Masnada_cassaforte\obj\Debug\net6.0-windows\ref\Masnada_cassaforte.dll
